@@ -147,8 +147,13 @@ body{
   
 .dropdown:hover .dropdown-content {
 	
-	display: block;
+	display: grid;
     opacity: 1;
+}
+.cart3{
+
+    display: flex;
+
 }
 .cartbtn{
 background: none;
